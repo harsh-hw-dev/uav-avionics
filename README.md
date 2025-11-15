@@ -144,4 +144,4 @@ Email: [saini.harsh.in@gmail.com](mailto:saini.harsh.in@gmail.com)
 
 ---
 
-> *Start small: a simple sensor board + telem is better than a half-built flight controller. Build iteratively and test safely.*
+ 
